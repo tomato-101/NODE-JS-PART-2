@@ -12,3 +12,4 @@
 // 9. git remote -v => git link ထည့်မယ့်ပုံစံကို စစ်ဆေးပါ
 // 10. git push -u origin master => permission တောင်းရင် allow လုပ်ပေးပါ
 // 11. done ပြရင်  upload တင်ခြင်းအောင်မြင်ပါပြီ
+
